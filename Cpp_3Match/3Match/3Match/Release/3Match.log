@@ -1,0 +1,30 @@
+﻿  DataManager.cpp
+  CastID.cpp
+  main.cpp
+  Bord.cpp
+  MoveTo.cpp
+  MoveToManager.cpp
+  Piece.cpp
+  Play.cpp
+  ClearCommand.cpp
+  LookAtCommand.cpp
+  MeshRenderCommand.cpp
+  SkyBoxRenderCommand.cpp
+  SpriteRenderCommand.cpp
+  StringRenderCommand.cpp
+  Renderer.cpp
+  RendererUtil.cpp
+  Quaternion_Utility.cpp
+  Transform.cpp
+  UIManager.cpp
+  Timer.cpp
+  コンパイル中...
+  IntVector2.cpp
+  Math.cpp
+  Message.cpp
+  VectorUtil.cpp
+  コード生成しています。
+  All 1532 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  3Match.vcxproj -> C:\Users\Hiroya\Google ドライブ\Cpp_3Match\3Match\Release\3Match.exe
+  3Match.vcxproj -> C:\Users\Hiroya\Google ドライブ\Cpp_3Match\3Match\Release\3Match.pdb (Full PDB)
